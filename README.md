@@ -1,6 +1,6 @@
 # RamiElshal
 <h1 align="center">Hi 👋, I'M RAMI ELSHAL</h1>
-<h3 align="center">A passionate full stack developer from EGYPT LIVE IN UAE</h3>
+<h3 align="center">A passionate Software Developer from EGYPT LIVE IN UAE</h3>
 <h3 align="center">FileMaker Pro Developer Expert </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramielshal&label=Profile%20views&color=0e75b6&style=flat" alt="ramielshal" /> </p>
@@ -9,17 +9,17 @@
 
 
 
-- 🔭 I’m currently working on Alghurair Group [EMS - GULFEX2](https://www.gulfex.com/)
+- 🔭 I’m currently working on Alghurair Group [EMS - Sr.FileMaker Developer](https://www.gulfex.com/)
 
 - 🌱 I’m currently learning **cyber security , ethical hacker**
 
 - 👯 I’m looking to collaborate on [amazon](https://aws.amazon.com/ar/training/)
 
-- 🤝 I’m looking for help with [filemaker developer](https://www.atieuno.com/)
+- 🤝 I’m looking for help with [fileMaker developer](https://www.atieuno.com/)
 
 - 👨‍💻 All of my projects are available at [my laptop](my laptop)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/rami-elshal-3193665a/](https://www.linkedin.com/in/rami-elshal-3193665a/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/rami-elshal-3193665a/](https://www.linkedin.com/in/rami-elshal)
 
 - 💬 Ask me about **HTML,CSS,JS,filemaker,android developer**
 
